@@ -1,2 +1,2 @@
 # cpe
-Projetos da matéria: computação para engenhariaa
+Projetos da matéria: computação para engenharia
